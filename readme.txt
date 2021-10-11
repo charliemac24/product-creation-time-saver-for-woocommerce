@@ -7,7 +7,7 @@ Requires PHP: 5.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.txt
 
-A lightweight plugin that will allow you to create reusable templates to save time in creating WooCommerce products.
+A lightweight plugin that will allow you to create reusable template to save time in creating WooCommerce products.
 
 == Description ==
 
