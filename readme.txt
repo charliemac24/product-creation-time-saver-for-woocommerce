@@ -13,6 +13,8 @@ A lightweight plugin that will allow you to create reusable template to save tim
 
 Creating WooCommerce product requires patience specially when dealing with too many attributes and product info. This plugin will set these automatically for you when adding products.
 
+A lightweight plugin that will allow you to create reusable template to save time in creating WooCommerce products.
+
 **BASIC**
 The basic version of this plugin will allow you to create single template only.
 
