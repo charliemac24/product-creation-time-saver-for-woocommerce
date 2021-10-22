@@ -15,14 +15,6 @@ Creating WooCommerce product requires patience specially when dealing with too m
 
 A lightweight plugin that will allow you to create reusable template to save time in creating WooCommerce products.
 
-**BASIC**
-The basic version of this plugin will allow you to create single template only.
-
-**PRO**
-The PRO version of this plugin will allow you to create multiple templates.
-
-Email [charlieanchetamacaraeg@gmail.com](mailto:charlieanchetamacaraeg@gmail.com) for the PRO version and customizations.
-
 1. Navigate to Products > Product Creation Time Saver Template
 2. Create a template
 3. Go create new product
