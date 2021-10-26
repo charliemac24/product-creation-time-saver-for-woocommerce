@@ -50,7 +50,10 @@ From your WordPress dashboard
 = 1.5 =
 *Release Date - Oct 8, 2021*
 
+* Fixed template loading issues
+
 = 1.6 =
 *Release Date - Oct 26, 2021*
 
-* Fixed template loading issues
+* Hide template name field
+
