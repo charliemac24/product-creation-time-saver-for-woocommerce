@@ -51,9 +51,9 @@ echo "<h1 class=\"wp-heading-inline\">".esc_html(__('Setup Template','product-cr
 echo "<form method=\"POST\">";
 
 // template name
-echo "<div class=\"pcts-field\">";
+echo "<div class=\"pcts-field\" style=\"display:none;\">";
 echo "<label>".esc_html(__('Template Name','product-creation-time-saver-for-woocommerce'))."</label>";
-echo "<input type=\"text\" name=\"pcts_template_name\" class=\"pcts_template_name\" placeholder=\"".esc_attr(__('Enter Template Name','product-creation-time-saver-for-woocommerce'))."\"/>";
+echo "<input type=\"text\" name=\"pcts_template_name\" value=\"template name\" class=\"pcts_template_name\" placeholder=\"".esc_attr(__('Enter Template Name','product-creation-time-saver-for-woocommerce'))."\"/>";
 echo "</div>";		
 		
 // categories		
