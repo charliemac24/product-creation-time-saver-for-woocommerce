@@ -4,7 +4,7 @@ Tags: woocommerce,product,attributes,categories,tags,short description, time sav
 Requires at least: 4.7
 Tested up to: 5.8.1
 Requires PHP: 5.4
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.txt
 
