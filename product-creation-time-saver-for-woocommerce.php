@@ -3,7 +3,7 @@
  * Plugin Name:		Product Creation Time Saver for WooCommerce
  * Description: 	A lightweight plugin that will allow you to create reusable templates to save time in creating WooCommerce products.
  * Author: 			Charlie Macaraeg
- * Version: 		1.5
+ * Version: 		1.6
  * Author URI:		https://profiles.wordpress.org/charliemac24
  * License:         GPLv3
  * License URI:     https://www.gnu.org/licenses/gpl.txt
