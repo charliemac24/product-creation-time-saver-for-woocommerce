@@ -107,7 +107,7 @@ echo "</div>";
 
 // categories
 echo "<div class=\"pcts-field\">";
-echo "<label>".esc_html(__('Pre-select the categories you want on this template','product-creation-time-saver-for-woocommerce'))."</label>";
+echo "<label>".esc_html(__('Pre-select the categories you want for this template','product-creation-time-saver-for-woocommerce'))."</label>";
 echo "<div class=\"pcts-field-group\">";
 		$cats = get_categories( 
 			array(
@@ -137,7 +137,7 @@ echo "</div>";
 // attributes
 $attrs = wc_get_attribute_taxonomies();	
 echo "<div class=\"pcts-field\">";
-echo "<label>".esc_html(__('Pre-select attributes included on this template','product-creation-time-saver-for-woocommerce'))."</label>";
+echo "<label>".esc_html(__('Pre-select attributes included for this template','product-creation-time-saver-for-woocommerce'))."</label>";
 echo "<div class=\"pcts-field-group\">";
 		if(empty($attrs)){
 			echo "<p>There are no attributes found!</p>";
@@ -159,7 +159,7 @@ $tags = get_terms(
 			) 
 		);
 echo "<div class=\"pcts-field\">";
-echo "<label>".esc_html(__('Pre-select the tags you want on this template','product-creation-time-saver-for-woocommerce'))."</label>";
+echo "<label>".esc_html(__('Pre-select the tags you want for this template','product-creation-time-saver-for-woocommerce'))."</label>";
 echo "<div class=\"pcts-field-group\">";
 		if(empty($tags)){
 			echo "<p>There are no tags found!</p>";
