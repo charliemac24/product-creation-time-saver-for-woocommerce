@@ -90,7 +90,7 @@ echo "</div>";
 $attrs = wc_get_attribute_taxonomies();
 
 echo "<div class=\"pcts-field\">";
-echo "<label>".esc_html(__('Pre-select attributes included on this template','product-creation-time-saver-for-woocommerce'))."</label>";
+echo "<label>".esc_html(__('Pre-select attributes included for this template','product-creation-time-saver-for-woocommerce'))."</label>";
 echo "<div class=\"pcts-field-group\">";	
 		if(empty($attrs)){
 			echo "<p>There are no attributes found!</p>";
