@@ -29,7 +29,7 @@ if (!defined('ABSPATH')) {
 
 // Define plugin constants
 if (!defined('PCTS_PLUGIN_VERSION')) {
-    define('PCTS_PLUGIN_VERSION', "1.5");
+    define('PCTS_PLUGIN_VERSION', "1.6");
 }
 if (!defined('PCTS_PLUGIN_DIR')) {
     define('PCTS_PLUGIN_DIR', plugin_dir_path( __FILE__ ));
